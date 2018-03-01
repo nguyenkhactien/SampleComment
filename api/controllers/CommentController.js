@@ -6,6 +6,13 @@
  */
 
 module.exports = {
-	
+	// createComment: function (req, res) {
+	// 	Comment.create({
+	// 		content: 'abcd',
+	// 		owner: 1
+	// 	}).exec(function(err, comment) {
+	// 		console.log(comment);
+	// 	});
+	// }
 };
 
